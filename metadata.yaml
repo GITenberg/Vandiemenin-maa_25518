@@ -26,6 +26,8 @@ creator:
     wikipedia: http://www.abenteuerroman.info/autor/dielitz/dielitz.htm
 description: This work appears to be an abridged and translated version of "The bushranger
   of Van Diemen's land" by Charles Rowcroft.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25518#Vandiemenin-maa
 gutenberg_issued: '2008-05-19'
 gutenberg_type: Text
 identifiers:
