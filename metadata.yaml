@@ -1,0 +1,41 @@
+_repo: Vandiemenin-maa_25518
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hirvonen, Simeon
+    alias: Hirvonen, Simo
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '32420'
+    url: http://www.gutenberg.org/2009/agents/32420
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rowcroft, Charles
+    deathdate: 1856
+    gutenberg_agent_id: '31425'
+    url: http://www.gutenberg.org/2009/agents/31425
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Rowcroft
+  - agent_name: Dielitz, Theodor
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '31387'
+    url: http://www.gutenberg.org/2009/agents/31387
+    wikipedia: http://www.abenteuerroman.info/autor/dielitz/dielitz.htm
+description: This work appears to be an abridged and translated version of "The bushranger
+  of Van Diemen's land" by Charles Rowcroft.
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25518'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Australia -- Juvenile fiction'
+title: Vandiemenin maa
+url: http://www.gutenberg.org/ebooks/25518
